@@ -6,6 +6,6 @@
 * html
 * kytc
 # link
-marwabaroud19@gmail.com
+https://marwabaroud.github.io/xb/
 # imaeg
 ![](img/portfolio/1.jpg)
