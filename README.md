@@ -6,4 +6,4 @@
 * html
 * kytc
 marwabaroud19@gmail.com
-![](img/1.jbg)
+![](img/1.jpg)
