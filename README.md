@@ -1,8 +1,5 @@
 # Maraw baroud...:girl:
 ## l am study at kytc
-1. marwa
-2. sami
-3. rana
 * html
 * kytc
 # link
